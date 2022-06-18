@@ -1,1 +1,1 @@
-# Image-Classification-fire-neutral-smoke-by CNN & VGG16
+# Image-Classification-fire-neutral-smoke-by CNN 
